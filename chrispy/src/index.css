@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Kalnia+Glaze:wght@100..700&family=Timmana&display=swap');
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  font-family: Quicksand, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
